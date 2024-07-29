@@ -1,2 +1,2 @@
 #work1.txt
-여기는 Visual Code에서 작성한 파일 2
+여기는 Visual Code에서 작성한 파일 3 git 허브에서 머지를 했다고 치면됨
